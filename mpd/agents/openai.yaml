@@ -1,0 +1,4 @@
+interface:
+  display_name: "MPD 总控"
+  short_description: "多项目多端需求总控与多 agent 协作"
+  default_prompt: "Use $mpd to set up a control thread and execution agents for a multi-project Jira demand."
